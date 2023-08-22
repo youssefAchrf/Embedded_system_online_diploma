@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Youssef Ashraf</h1>
 <h3 align="center">A passionate Embedded Engineer</h3>
 
-- I’m currently working on **Mastering Embedded Diploma**
+- I’m currently working on **Mastering Embedded Diploma** 
+- Drive link for Exams/Assignments/projects: https://drive.google.com/drive/u/1/folders/17CH3SDJKexMRdPse1G5Z6e2JxdU1eEQf
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
